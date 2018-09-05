@@ -4,6 +4,7 @@ import backgroundPic from "../pics/pics.jpg";
 const Body = styled.div`
   background-color: #fdfdfd
   margin: 0
+  padding: 0
 `;
 const Main = styled.div`
   display: flex
